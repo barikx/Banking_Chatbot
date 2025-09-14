@@ -24,7 +24,7 @@ A dataset of banking queries and responses is ingested, converted into document 
 
 The application is deployed using FastAPI, with endpoints supporting both text-based chat and voice-based chat. The voice input is processed through speech recognition (Google Speech API) after conversion from audio to WAV format. The system returns both the interpreted query and the generated response.
 
-**Key Features**
+## Key Features
 
 RAG-based Banking Chatbot: Combines LLM reasoning with vector DB retrieval for precise answers.
 
