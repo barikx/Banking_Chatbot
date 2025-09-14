@@ -1,10 +1,18 @@
 # An AI-Powered Banking Assistant Using RAG and Vector Database with Voice & Text Interface
 
+## Image1 : A simple Gen AI Banking Chatbot with both Text and Speech Input
+
 <img width="960" height="540" alt="1" src="https://github.com/user-attachments/assets/1787a14a-be75-4518-9152-987e5a519316" />
+
+## Image2 : A simple Gen AI Banking Chatbot with both Text and Speech Input
 
 <img width="960" height="540" alt="2" src="https://github.com/user-attachments/assets/92bb2cad-808b-49a1-998f-b8a2fc553475" />
 
+## Image3 : A simple Gen AI Banking Chatbot with both Text and Speech Input
+
 <img width="960" height="540" alt="3" src="https://github.com/user-attachments/assets/38807749-f18c-455f-87f5-03721abee065" />
+
+## Image4 : A simple Gen AI Banking Chatbot with both Text and Speech Input
 
 <img width="960" height="540" alt="4" src="https://github.com/user-attachments/assets/2c2507e2-11b1-4c5f-9263-3f2b3e4b943d" />
 
