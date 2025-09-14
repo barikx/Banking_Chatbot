@@ -1,5 +1,13 @@
 # An AI-Powered Banking Assistant Using RAG and Vector Database with Voice & Text Interface
 
+<img width="960" height="540" alt="1" src="https://github.com/user-attachments/assets/1787a14a-be75-4518-9152-987e5a519316" />
+
+<img width="960" height="540" alt="2" src="https://github.com/user-attachments/assets/92bb2cad-808b-49a1-998f-b8a2fc553475" />
+
+<img width="960" height="540" alt="3" src="https://github.com/user-attachments/assets/38807749-f18c-455f-87f5-03721abee065" />
+
+<img width="960" height="540" alt="4" src="https://github.com/user-attachments/assets/2c2507e2-11b1-4c5f-9263-3f2b3e4b943d" />
+
 ## Project Description
 
 This project develops an AI-powered banking chatbot that leverages Retrieval-Augmented Generation (RAG) with a vector database (Pinecone) to provide accurate, context-aware responses to customer queries. The chatbot is designed to handle interactions via both text and voice input, making it accessible and user-friendly.
