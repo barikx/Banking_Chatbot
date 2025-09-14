@@ -26,6 +26,8 @@ The application is deployed using FastAPI, with endpoints supporting both text-b
 
 ## Key Features
 
+LlamaIndex → as the orchestration framework (to create VectorStoreIndex, documents, query engine).
+
 RAG-based Banking Chatbot: Combines LLM reasoning with vector DB retrieval for precise answers.
 
 Voice & Text Input Support: Users can interact using speech or typing.
